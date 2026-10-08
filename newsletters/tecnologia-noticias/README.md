@@ -4,6 +4,8 @@
 
 ## 2026
 
+- [08/10/2026 — Tecnologia e Notícias — Resumo semanal](2026/2026-10-08.md)
+
 - [01/10/2026 — Tecnologia e Notícias — Resumo semanal](2026/2026-10-01.md)
 - [24/09/2026 — Tecnologia e Notícias — Resumo semanal](2026/2026-09-24.md)
 - [17/09/2026 — Tecnologia e Notícias — Resumo semanal](2026/2026-09-17.md)
