@@ -4,16 +4,16 @@ Uma newsletter gerada por GPT.
 
 ## Cronograma
 
-| Relatório | Seg | Ter | Qua | Qui | Sex | Sáb | Dom |
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [AI — Diário](newsletters/ai/README.md) | ✅ | ✅ | ✅ | ✅ | ✅ |  |  |
-| [Engenharia e Arquitetura](newsletters/engenharia-arquitetura/README.md) | ✅ |  | ✅ |  | ✅ |  |  |
-| [.NET](newsletters/dotnet/README.md) |  | ✅ |  |  |  |  |  |
-| [Front-end](newsletters/frontend/README.md) |  | ✅ |  |  |  |  |  |
-| [Cloud + Kubernetes](newsletters/cloud-kubernetes/README.md) |  | ✅ |  |  |  |  |  |
-| [Consultoria e Negócios](newsletters/consultoria-negocios/README.md) |  | ✅ |  |  |  |  |  |
-| [Economia + Reforma + Investimentos](newsletters/economia-investimentos/README.md) |  |  |  | ✅ |  |  |  |
-| [Tecnologia e Notícias](newsletters/tecnologia-noticias/README.md) |  |  |  | ✅ |  |  |  |
+| Relatório                                                                          | Hora  |  Seg  |  Ter  |  Qua  |  Qui  |  Sex  |  Sáb  |  Dom  |
+| ---------------------------------------------------------------------------------- | ----- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [AI — Diário](newsletters/ai/README.md)                                            | 08:00 |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |       |       |
+| [Engenharia e Arquitetura](newsletters/engenharia-arquitetura/README.md)           | 08:30 |   ✅   |       |   ✅   |       |   ✅   |       |       |
+| [.NET](newsletters/dotnet/README.md)                                               | 08:30 |       |   ✅   |       |       |       |       |       |
+| [Front-end](newsletters/frontend/README.md)                                        | 09:00 |       |   ✅   |       |       |       |       |       |
+| [Cloud + Kubernetes](newsletters/cloud-kubernetes/README.md)                       | 09:30 |       |   ✅   |       |       |       |       |       |
+| [Consultoria e Negócios](newsletters/consultoria-negocios/README.md)               | 10:00 |       |   ✅   |       |       |       |       |       |
+| [Economia + Reforma + Investimentos](newsletters/economia-investimentos/README.md) | 08:30 |       |       |       |   ✅   |       |       |       |
+| [Tecnologia e Notícias](newsletters/tecnologia-noticias/README.md)                 | 09:00 |       |       |       |   ✅   |       |       |       |
 
 ## Estrutura
 
