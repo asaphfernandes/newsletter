@@ -23,7 +23,6 @@ Uma newsletter gerada por GPT, com publicações periódicas sobre inteligência
 | 08:30 | 🏗️ | 🔷 | 🏗️ | 💰 | 🏗️ | | |
 | 09:00 | | 🎨 | | 📰 | | | |
 | 09:30 | | ☁️ | | 💼 | | | |
-| 10:00 | | 💼 | | | | | |
 
 ## Estrutura
 
