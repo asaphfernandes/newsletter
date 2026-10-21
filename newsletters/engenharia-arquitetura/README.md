@@ -4,6 +4,7 @@
 
 ## 2026
 
+- [21/10/2026 — Engenharia e Arquitetura — Resumo](2026/2026-10-21.md)
 - [19/10/2026 — Engenharia e Arquitetura — Resumo](2026/2026-10-19.md)
 - [16/10/2026 — Engenharia e Arquitetura — Resumo](2026/2026-10-16.md)
 - [14/10/2026 — Engenharia e Arquitetura — Resumo](2026/2026-10-14.md)
