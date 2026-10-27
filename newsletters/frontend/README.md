@@ -4,6 +4,7 @@
 
 ## 2026
 
+- [27/10/2026 — Front-end — Resumo semanal](2026/2026-10-27.md)
 - [20/10/2026 — Front-end — Resumo semanal](2026/2026-10-20.md)
 - [13/10/2026 — Front-end — Resumo semanal](2026/2026-10-13.md)
 - [06/10/2026 — Front-end — Resumo semanal](2026/2026-10-06.md)
