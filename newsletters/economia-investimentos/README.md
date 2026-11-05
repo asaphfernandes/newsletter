@@ -4,6 +4,8 @@
 
 ## 2026
 
+- [05/11/2026 — Economia + Reforma + Investimentos — Resumo semanal](2026/2026-11-05.md)
+
 - [29/10/2026 — Economia + Reforma + Investimentos — Resumo semanal](2026/2026-10-29.md)
 
 - [22/10/2026 — Economia + Reforma + Investimentos — Resumo semanal](2026/2026-10-22.md)
