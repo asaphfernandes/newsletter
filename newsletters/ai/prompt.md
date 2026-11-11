@@ -34,3 +34,12 @@ Considere principalmente os acontecimentos das últimas 24 horas.
 - Arquivo: `{ano}/{yyyy-MM-dd}.md`.
 - Ao publicar um novo artigo, atualizar também o `README.md` desta pasta.
 - O `README.md` deve manter os links dos artigos publicados no último ano, em ordem decrescente de data.
+
+## Publicação, recuperação e resiliência
+
+- Publicar exclusivamente no repositório GitHub asaphfernandes/newsletter, na branch master, **sem enviar e-mail**.
+- Em toda execução, conferir no GitHub os arquivos e links do README para cada dia útil previsto desde a última publicação, examinando **no mínimo os últimos 10 dias úteis**. Execução da tarefa não é prova de publicação.
+- Havendo lacunas, recuperar primeiro cada edição faltante em ordem cronológica, usando o arquivo e a data originais, apenas notícias disponíveis até aquela data e fontes verificadas, identificando a recuperação retroativa; não reutilizar o conteúdo de outra edição.
+- Publicar o artigo e atualizar o README no **mesmo commit**, verificando ambos na master. Se não conseguir recuperar uma edição, informar claramente a data pendente e o erro, tentando novamente no próximo agendamento, sem declarar a sequência completa.
+- Em caso de falhas de pesquisa, autenticação, GitHub ou publicação, tentar novamente de forma segura. **Nunca pausar, desativar, cancelar, excluir ou substituir o agendamento automaticamente**.
+- **Nunca enviar e-mail, nem alterar dias, horários ou periodicidade do agendamento.**
