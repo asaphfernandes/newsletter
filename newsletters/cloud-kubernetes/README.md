@@ -6,6 +6,7 @@
 
 - [10/11/2026 — Cloud + Kubernetes — Resumo semanal](2026/2026-11-10.md)
 - [03/11/2026 — Cloud + Kubernetes — Resumo semanal](2026/2026-11-03.md)
+- [27/10/2026 — Cloud + Kubernetes — Resumo semanal](2026/2026-10-27.md)
 - [20/10/2026 — Cloud + Kubernetes — Resumo semanal](2026/2026-10-20.md)
 - [13/10/2026 — Cloud + Kubernetes — Resumo semanal](2026/2026-10-13.md)
 - [06/10/2026 — Cloud + Kubernetes — Resumo semanal](2026/2026-10-06.md)
