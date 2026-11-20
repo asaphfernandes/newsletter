@@ -4,17 +4,16 @@
 
 ## 2026
 
+- [20/11/2026 — Engenharia e Arquitetura — Resumo](2026/2026-11-20.md)
 - [18/11/2026 — Engenharia e Arquitetura — Resumo](2026/2026-11-18.md)
 - [16/11/2026 — Engenharia e Arquitetura — Resumo](2026/2026-11-16.md)
 - [13/11/2026 — Engenharia e Arquitetura — Resumo](2026/2026-11-13.md)
 - [11/11/2026 — Engenharia e Arquitetura — Resumo](2026/2026-11-11.md)
-
 - [09/11/2026 — Engenharia e Arquitetura — Resumo](2026/2026-11-09.md)
 - [06/11/2026 — Engenharia e Arquitetura — Resumo](2026/2026-11-06.md)
 - [04/11/2026 — Engenharia e Arquitetura — Resumo](2026/2026-11-04.md)
 - [02/11/2026 — Engenharia e Arquitetura — Resumo](2026/2026-11-02.md)
 - [30/10/2026 — Engenharia e Arquitetura — Resumo](2026/2026-10-30.md)
-
 - [28/10/2026 — Engenharia e Arquitetura — Resumo](2026/2026-10-28.md)
 - [26/10/2026 — Engenharia e Arquitetura — Resumo](2026/2026-10-26.md)
 - [23/10/2026 — Engenharia e Arquitetura — Resumo](2026/2026-10-23.md)
