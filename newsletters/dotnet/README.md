@@ -4,6 +4,7 @@
 
 ## 2026
 
+- [24/11/2026 — .NET — Resumo semanal](2026/2026-11-24.md)
 - [17/11/2026 — .NET — Resumo semanal](2026/2026-11-17.md)
 - [10/11/2026 — .NET — Resumo semanal](2026/2026-11-10.md)
 - [03/11/2026 — .NET — Resumo semanal](2026/2026-11-03.md)
