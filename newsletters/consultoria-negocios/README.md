@@ -4,6 +4,7 @@
 
 ## 2026
 
+- [26/11/2026 — Consultoria e Negócios — Resumo semanal](2026/2026-11-26.md)
 - [19/11/2026 — Consultoria e Negócios — Resumo semanal](2026/2026-11-19.md)
 - [12/11/2026 — Consultoria e Negócios — Resumo semanal](2026/2026-11-12.md)
 - [05/11/2026 — Consultoria e Negócios — Resumo semanal](2026/2026-11-05.md)
